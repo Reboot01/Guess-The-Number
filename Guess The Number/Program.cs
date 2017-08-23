@@ -53,7 +53,7 @@ namespace Guess_The_Number
                     Console.ReadKey(true);
                 }
 
-                Console.Write("Would you like to keep playing? [Y/N]");
+                Console.Write("Are you bored yet? [y/n]");
                 input = Console.ReadLine();
             }
         }
