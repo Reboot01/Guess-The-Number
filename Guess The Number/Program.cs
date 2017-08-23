@@ -60,8 +60,6 @@ namespace Guess_The_Number
                 Console.Write("Would you like to keep playing? [Y/N]");
                 input = Console.ReadLine();
             }
-
-            
         }
     }
 }
